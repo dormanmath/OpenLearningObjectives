@@ -1,4 +1,4 @@
-# OpenLearningObjectives
+# OpenLearningObjectives1
 
 Open Learning Objectives is an open source "unpacking" of K-12 Math and Language Arts standards, such as the Common Core State Standards and other state standards. Specifically it proposes a discrete set of detailed learning goals which broader standards such as CCSS can be decomposed into.   The specificity fosters creation of and search for more specific educational content. It also fosters more granular mastery determination. 
 
